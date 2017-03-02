@@ -1,2 +1,2 @@
 # csharp-sharepoint-event-receiver-levenshtein-distance
-Optimized a technique на языке программирования C# for calculating the Levenshtein distance on the example of comparison of records in the SharePoint list.
+Optimized method on C# to calculate the Levenshtein distance, for example, match records in the SharePoint list.
